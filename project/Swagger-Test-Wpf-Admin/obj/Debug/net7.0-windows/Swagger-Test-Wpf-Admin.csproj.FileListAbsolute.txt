@@ -1,0 +1,5 @@
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Test-Wpf-Admin\obj\Debug\net7.0-windows\Swagger-Test-Wpf-Admin.csproj.AssemblyReference.cache
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Test-Wpf-Admin\obj\Debug\net7.0-windows\App.g.cs
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Test-Wpf-Admin\obj\Debug\net7.0-windows\Swagger-Test-Wpf-Admin_MarkupCompile.cache
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Test-Wpf-Admin\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Test-Wpf-Admin\obj\Debug\net7.0-windows\Swagger-Test-Wpf-Admin_MarkupCompile.lref

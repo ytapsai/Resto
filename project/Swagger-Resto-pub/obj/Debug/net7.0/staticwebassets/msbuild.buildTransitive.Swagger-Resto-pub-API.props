@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Swagger-Resto-pub-API.props" />
+</Project>

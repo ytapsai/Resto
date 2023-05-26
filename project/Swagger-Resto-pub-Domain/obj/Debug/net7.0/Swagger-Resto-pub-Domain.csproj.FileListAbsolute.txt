@@ -1,0 +1,5 @@
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Resto-pub-Domain\obj\Debug\net7.0\Swagger-Resto-pub-Domain.csproj.AssemblyReference.cache
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Resto-pub-Domain\obj\Debug\net7.0\Swagger-Resto-pub-Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Resto-pub-Domain\obj\Debug\net7.0\Swagger-Resto-pub-Domain.AssemblyInfoInputs.cache
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Resto-pub-Domain\obj\Debug\net7.0\Swagger-Resto-pub-Domain.AssemblyInfo.cs
+D:\bestanden\persoonlijke map Nick\school sem 4\web 4 Luc\eindwerk\project\Swagger-Resto-pub-Domain\obj\Debug\net7.0\Swagger-Resto-pub-Domain.csproj.CoreCompileInputs.cache
